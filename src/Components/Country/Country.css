@@ -1,0 +1,10 @@
+.country-div{
+    margin: 20px;
+    padding: 10px;
+    border: .1px solid #55555534;
+    border-radius: 12px;
+}
+
+.visited{
+    background:  #f8e2c1;
+}
